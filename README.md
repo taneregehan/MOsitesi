@@ -67,9 +67,7 @@ use [`rehype-raw`](https://github.com/rehypejs/rehype-raw).
 You should probably combine it with
 [`rehype-sanitize`](https://github.com/rehypejs/rehype-sanitize).
 
-<blockquote>
-  👆 Use the toggle above to add the plugin.
-</blockquote>
+
 
 ## Components
 
