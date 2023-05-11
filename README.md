@@ -54,7 +54,6 @@ These features **do not work by default**.
 | CommonMark | 100%                 |
 | GFM        | 100% w/ `remark-gfm` |
 
-~~strikethrough~~
 
 * [ ] task list
 * [x] checked item
